@@ -69,13 +69,13 @@ me.sayHello();
 <h2>📞 &nbsp; Contact Me </h2>
 
 <p align="center">
-  <a href="https://sabzlearn.ir/">
+  <a href="https://w3front.vercel.app/">
     <img src="https://img.shields.io/badge/Website-w3front.vercel.app-blue?style=flat&logo=google-chrome" />
   </a>
-  <a href="https://instagram.com/rad_front/">
+  <a href="https://instagram.com/cidhashimi/">
     <img src="https://img.shields.io/badge/Instagram-@cidhashimi-red?style=flat&logo=instagram" />
   </a>
-  <a href="https://t.me/aminkhoy78/">
+  <a href="https://t.me/cidhashimi/">
     <img src="https://img.shields.io/badge/Telegram-@cidhashimi-blue?style=flat&logo=telegram" />
   </a>
 </p>
