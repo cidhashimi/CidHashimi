@@ -4,7 +4,7 @@
 class SoftwareDeveloper {
   constructor() {
     this.name = "Cid Hahsimi";
-    this.role = "Frontend and UI-UX developer";
+    this.role = "Frontend developer";
     this.languageSpoken = ["English", "persian"];
   }
 
