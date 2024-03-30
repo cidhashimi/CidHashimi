@@ -3,7 +3,7 @@
 ```javascript
 class SoftwareDeveloper {
   constructor() {
-    this.name = "Cid Hahsimi";
+    this.name = "Cid Hashemi";
     this.role = "Frontend developer";
     this.languageSpoken = ["English", "persian"];
   }
