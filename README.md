@@ -1,4 +1,4 @@
-# Hello, I'm Cid Hashimi! 👋
+# Hello, I'm Cid Hashemi! 👋
 
 ```javascript
 class SoftwareDeveloper {
