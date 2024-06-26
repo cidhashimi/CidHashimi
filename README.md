@@ -1,9 +1,9 @@
-# Hello, I'm Cid Hashemi! 👋
+# Hello, I'm Sayed Hashemi! 👋
 
 ```javascript
 class SoftwareDeveloper {
   constructor() {
-    this.name = "Cid Hashemi";
+    this.name = "Sayed Hashemi";
     this.role = "Frontend developer";
     this.languageSpoken = ["English", "persian"];
   }
