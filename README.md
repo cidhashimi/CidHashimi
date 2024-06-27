@@ -4,8 +4,9 @@
 class SoftwareDeveloper {
   constructor() {
     this.name = "Sayed Hashemi";
-    this.role = "Frontend developer";
+    this.role = "Full Stack Developer";
     this.languageSpoken = ["English", "persian"];
+    this.certified = ["IBM"];
   }
 
   sayHello() {
